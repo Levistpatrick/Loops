@@ -2,17 +2,21 @@
 
 function positiveIntSum(limit){
 let sum = 0;
-for( let i=1; i <= limit; i = t){
+for( let i=1; i <= limit; i++){
         sum = sum + i ;
 }
 return sum;
 }
 
 
-function additionPatternSum(/* Give it three inputs */){
+function additionPatternSum(start,diff,limit){
+let start;
+let limit;
+ for(let i = start; i < limit; + diff) 
+             sum = sum + i
+
 
 }
-
 
 
 
